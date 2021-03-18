@@ -1,0 +1,12 @@
+{
+  "name": "projectrube-numpad",
+  "displayName": "projectrube-numpad",
+  "expo": {
+    "name": "projectrube-numpad",
+    "slug": "projectrube-numpad",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
