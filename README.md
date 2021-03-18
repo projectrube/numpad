@@ -4,7 +4,7 @@
 - Run around the block 🏃‍♀️
 - Remember it 🎉
 
-~[screenshots/success.png]
+![screenshots/success.png]
 
 ## Setup
 
